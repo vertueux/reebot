@@ -1,4 +1,4 @@
-> Reebot is a robot I made when I was 10-11 years old in order to participate to the robotics contest of French Guyana. It was made with mBlock software and a MBot base. 
+> Reebot is a robot I made when I was 10-11 years old in order to participate to the robotics contest of French Guiana. It was made with mBlock software and a MBot base. 
 
 # What are its functionalities?
 It has three main functions which are, on the one hand, the aesthetics of the robot, as the contest included a trophy for the most beautiful robot, on the other hand, to be able to get out of a random maze, thanks to a method based on the line follower, as well as sumo, having for objective to knock down an opponent robot, in an autonomous way.
