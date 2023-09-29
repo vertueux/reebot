@@ -3,6 +3,8 @@
 # What are its functionalities?
 It has three main functions which are, on the one hand, the aesthetics of the robot, as the contest included a trophy for the most beautiful robot, on the other hand, to be able to get out of a random maze, thanks to a method based on the line follower, as well as sumo, having for objective to knock down an opponent robot, in an autonomous way.
 
+> **Note**: This is a report on the competition in French Guiana, and is of course in French.
+
 [<img src="https://img.youtube.com/vi/e4IyCrXLLpY/hqdefault.jpg" width="1000" height="650"/>](https://www.youtube.com/embed/e4IyCrXLLpY)
 
 # Why publish it on GitHub?
