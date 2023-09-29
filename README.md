@@ -3,11 +3,7 @@
 # What are its functionalities?
 It has three main functions which are, on the one hand, the aesthetics of the robot, as the contest included a trophy for the most beautiful robot, on the other hand, to be able to get out of a random maze, thanks to a method based on the line follower, as well as sumo, having for objective to knock down an opponent robot, in an autonomous way.
 
-[![Watch the video](https://img.youtube.com/vi/4IyCrXLLpY/hqdefault.jpg)](https://www.youtube.com/embed/e4IyCrXLLpY)
-
-[<img src="ps://img.youtube.com/vi/e4IyCrXLLpY/hqdefault.jp" width="600" height="300"
-/>](https://www.youtube.com/embed/e4IyCrXLLpY)
-
+[<img src="https://img.youtube.com/vi/e4IyCrXLLpY/hqdefault.jpg" width="1000" height="650"/>](https://www.youtube.com/embed/e4IyCrXLLpY)
 
 # Why publish it on GitHub?
 I finally decided to publish it open source on GitHub, because I stopped developing robots with visual programming languages (now using tools like ROS & C++), that it was a rather interesting project to develop, that its source code could help anyone to develop his own robot, as well as by its modeling.
