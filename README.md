@@ -5,7 +5,7 @@ It has three main functions which are, on the one hand, the aesthetics of the ro
 
 > **Note**: This is a report on the competition in French Guiana, and is of course in French.
 
-[<img src="https://img.youtube.com/vi/e4IyCrXLLpY/hqdefault.jpg" width="1000" height="650"/>](https://www.youtube.com/embed/e4IyCrXLLpY)
+* [Watch the report on this competition](https://www.youtube.com/embed/e4IyCrXLLpY)
 
 # Why publish it on GitHub?
 I finally decided to publish it open source on GitHub, because I stopped developing robots with visual programming languages (now using tools like ROS & C++), that it was a rather interesting project to develop, that its source code could help anyone to develop his own robot, as well as by its modeling.
